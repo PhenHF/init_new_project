@@ -1,0 +1,15 @@
+{
+    "packages": 
+        {
+            "filters": ["__init__", "filters"],
+            "keyboards": ["__init__", "markup_keyboard", "inline_keyboard", "menu_keyboard"],
+            "handlers": ["__init__", "user_handlers", "other_handlers"],
+            "lexicon": ["__init__", "lexicon_ru"],
+            "config": ["__init__", "config"],
+            "database": ["__init__", "database_config", "queries"],
+            "errors": ["__init__", "exception_handlers"],
+            "utils": ["__init__", "utils"]
+    }
+        
+}
+
